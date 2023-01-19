@@ -1,8 +1,9 @@
 # Coinbase_AT_API
-Templates to help you with Advance Trade
+Templates to help you with Advance Trade API
+
 All files including this repository and any other repositroy I post are only for suggestions on how you should write your code (aka suggestion templates). If you use these to trade for yourself I take no responsibility of any kind. Happy to lend suggestions if you have any questions.   
 
-#Go to this link to see Permission Map 
+#Go to this link to see the Permission Map 
 https://docs.cloud.coinbase.com/advanced-trade-api/docs/rest-api-pro-mapping
 
 # For Websocket Level 2
